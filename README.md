@@ -21,9 +21,9 @@
 
   ¿Qué se necesita para usar tu proyecto?
   - Especifica si es necesario contar con una tecnología para el uso de tu proyecto
-  - Especifica casos de uso con ´< código >´
-
-  - Especifica si es necesario contar con una tecnología para el uso de tu proyecto
+  - Especifica casos de uso y ejemplos de código aquí
+ 
+   `escribe-tu-codigo`
 
   ¿Cómo se ve tu proyecto?
   - Incluye imágenes para que tus usuarios conozcan tu proyecto:
