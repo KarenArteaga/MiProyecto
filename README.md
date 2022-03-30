@@ -15,12 +15,12 @@
 
 
 ## Documentación para replicar <a name="replicar"></a> 
-- Escribe aquí:
-- ¿Cómo se hace una copia de tu proyecto?
-- Describe los pasos que tus usuarios deben seguir para usar el contenido de  tu repositorio.
+  ### Escribe aquí:
+  ¿Cómo se hace una copia de tu proyecto?
+  - Describe los pasos que tus usuarios deben seguir para usar el contenido de  tu repositorio.
 
-- ¿Qué se necesita para usar tu proyecto?
-- Especifica si es necesario contar con una tecnología para el uso de tu proyecto
+  ¿Qué se necesita para usar tu proyecto?
+  - Especifica si es necesario contar con una tecnología para el uso de tu proyecto
 
 - ¿Cómo se ve tu proyecto?
 - Incluye imágenes para que tus usuarios conozcan tu proyecto:
