@@ -8,10 +8,10 @@
 * [Contacto](#contacto)
 
 ## Introducción <a name="introduccion"></a> 
-- Escribe aquí:
-- ¿Qué hace tu proyecto?
-- ¿Por qué es útil tu proyecto?
-- ¿Por qué existe tu proyecto?
+  ### Escribe aquí:
+  - ¿Qué hace tu proyecto?
+  - ¿Por qué es útil tu proyecto?
+  - ¿Por qué existe tu proyecto?
 
 
 ## Documentación para replicar <a name="replicar"></a> 
@@ -21,10 +21,13 @@
 
   ¿Qué se necesita para usar tu proyecto?
   - Especifica si es necesario contar con una tecnología para el uso de tu proyecto
+  - Especifica casos de uso con ´< código >´
 
-- ¿Cómo se ve tu proyecto?
-- Incluye imágenes para que tus usuarios conozcan tu proyecto:
-![Imagen1](https://user-images.githubusercontent.com/69361149/160888732-44fef9de-b60b-43e3-ba1e-1bf1ae004b52.png)
+  - Especifica si es necesario contar con una tecnología para el uso de tu proyecto
+
+  ¿Cómo se ve tu proyecto?
+  - Incluye imágenes para que tus usuarios conozcan tu proyecto:
+  ![Imagen1](https://user-images.githubusercontent.com/69361149/160888732-44fef9de-b60b-43e3-ba1e-1bf1ae004b52.png)
 
 ## Preguntas frecuentes <a name="preguntas"></a> 
 - Escribe y contesta aquí las preguntas que tus usuarios podrían tener acerca del contenido de tu repositorio y cómo replicarlo.
